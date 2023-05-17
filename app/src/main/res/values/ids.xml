@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="kampusWebView" type="id" />
+    <item name="eCommerceWebView" type="id" />
+</resources>
